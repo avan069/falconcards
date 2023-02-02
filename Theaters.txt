@@ -1,0 +1,10 @@
+"KOREA KTO",\Data\TerrData\Objects\KoreaObj
+"Korea TvT",\Data\TerrData\Objects\KoreaObj
+"Balkans",\Data\Add-On Balkans\Terrdata\objects\KoreaObj
+"Israel",\Data\Add-On Israel\TerrData\Objects\KoreaObj
+"Israel 1980s v1.7",\Data\Add-On Israel\TerrData\Objects\KoreaObj
+"Kuwait",\Data\Add-On Kuwait\TerrData\Objects\KoreaObj
+"Battle for Kuwait 1.1.1",\Data\Add-On Battle for Kuwait\TerrData\objects\KoreaObj
+"EMF",\Data\Add-On emf\TerrData\Objects\KoreaObj
+"HeliPack 0.1",\Data\Add-On emf\TerrData\Objects\KoreaObj
+"Panama",\Data\Add-On Panama\TerrData\Objects\KoreaObj
