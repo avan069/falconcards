@@ -1,6 +1,6 @@
 @ECHO OFF
 set arg1=%1
-if "%arg1%" == "" (echo No filename passed, using 7982.dds) else (echo [33mOperating with:[0m %1) 
+if "%arg1%" == "" (echo [33mNo filename passed, using 7982.dds[0m) else (echo [33mOperating on:[0m %1) 
 ECHO "%arg1%"
 REM /// Get BASEDIR and PILOTBIN from Registry.
 REM /// Note: This part will need to be updated in future versions of BMS.
@@ -43,7 +43,7 @@ REM /// Then returns the partial path of the objects folder containing the .dss 
 FOR /F "usebackq tokens=1-2 delims=," %%G IN (Theaters.txt) DO IF %%G == "%THEATER%" SET THEATERPATH=%BASEDIR%%%H
 
 SET TARGET="%THEATERPATH%\%TARGETFILE%"
-ECHO [33mTARGET=[0m%TARGET%
+ECHO TARGET=%TARGET%
 IF NOT EXIST %TARGET% (
   ECHO [91mTarget file doesn't exist. Check theater.[0m
   GOTO ERROR
