@@ -1,4 +1,7 @@
 @ECHO OFF
+set arg1=%1
+if "%arg1%" == "" (echo No filename passed, using 7982.dds) else (echo [33mOperating with:[0m %1) 
+ECHO "%arg1%"
 REM /// Get BASEDIR and PILOTBIN from Registry.
 REM /// Note: This part will need to be updated in future versions of BMS.
 REM /// delims is a TAB followed by a space
@@ -28,7 +31,10 @@ ECHO CALLSIGNINI=%CALLSIGNINI%
 
 REM /// Kneeboards textures are in files 7982.dds and following.
 REM /// One file holds a left+right double page for the kneeboards.
-SET TARGETFILE=7982.dds
+
+SET TARGETFILE="TEST"
+if "%arg1%" == "" (SET TARGETFILE=7982.dds) else (SET TARGETFILE=%arg1%)
+
 REM /// Path to theater dds files. Default to Korea KTO.
 SET THEATERPATH=%BASEDIR%\Data\TerrData\Objects\KoreaObj
 
@@ -37,14 +43,14 @@ REM /// Then returns the partial path of the objects folder containing the .dss 
 FOR /F "usebackq tokens=1-2 delims=," %%G IN (Theaters.txt) DO IF %%G == "%THEATER%" SET THEATERPATH=%BASEDIR%%%H
 
 SET TARGET="%THEATERPATH%\%TARGETFILE%"
-ECHO TARGET=%TARGET%
+ECHO [33mTARGET=[0m%TARGET%
 IF NOT EXIST %TARGET% (
   ECHO [91mTarget file doesn't exist. Check theater.[0m
   GOTO ERROR
 )
 
 
-ECHO [33mConverting the briefing.png image file to a DDS texture file.[0m
+ECHO Converting the briefing.png image file to a DDS texture file.
 rem dir
 rem a dir here proves that the default operating directory is Documents... not sure how to get a bat file to operate in it's own directory?
 bin\texconv.exe -f DXT1 -m 1 -y -srgb -h 2048 -w 2048 briefing.PNG
