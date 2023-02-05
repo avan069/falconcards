@@ -1,0 +1,211 @@
+--------------------------------------------------------
+BRIEFING RECORD generated at 1/24/2023 19:35:58.
+Mission Overview:
+
+	Hammer7 (OCA STRIKE) 
+
+	Package #:	1588 (Offensive Counter Air) 
+	Pkg-Mission:	Strike Podgorica Airbase
+	Target Area:	2 nm east of Mahala.
+	Time on Target: 	06:20:30z
+
+	 	Sunrise:	00:00:00z(02:00:00l) 
+	Sunset:	00:00:00z(02:00:00l)  
+
+Situation: 
+
+		Intelligence reports the following squadrons are currently operating out of Podgorica Airbase, located 5 nm south of Podgorica:
+	 -- 897th Attack Heli Squadron(FRY Mi-8)  -- 100%strength
+	 -- 126th Fighter Squadron(FRY MiG-21bis)  -- 100%strength
+	Air command would like to damage or destroy their facilities in order to reduce their sortie rate.
+
+	Intelligence reports the highest impact targets are:
+	 -- Runway TDZ XX L/R 1	--	100%operational
+	 -- Runway TDZ XX L/R 2	--	100%operational
+	 -- Runway TDZ XX L/R 3	--	100%operational
+	 -- Runway TDZ XX L/R 4	--	100%operational
+	 -- Runway Section	--	100%operational
+
+Pilot Roster:
+
+	Callsign:	Flt Lead:	Wing Two:	Elem Lead:	Elem Two:
+
+	Zipper6	Cpt. Kletzky	Lt. Lawell	Col. Handley	Lt. Hawkins
+	Hammer7	2Lt. Van	Cpt. Gonzalez
+	Satan1	Cpt. Tsai	Lt. Kyle	Maj. Havoc	Lt. Haslam
+	Bison2	Maj. Clark	Lt. Jenkins	Lt. Coleman	Lt. Henderson
+
+Package Elements: 	x  = Primary Flight
+
+	Callsign:	 Flt #:	Role:	Aircraft:	Task:
+
+	Zipper6	1590 (x ) 	OCA STRIKE	4 Tornado IDS I 	Destroy Runway TDZ XX L/R 1or other facilities at target site
+	 	T/O: 05:51:19z	Push: 06:05:12z	Tgt: 06:20:00z	IFF: M124/4/121/20630-3/33530-3
+		Hammer7	1591	OCA STRIKE	2 F-16CM-50 	Destroy Depot Complexor other facilities at target site
+	 	T/O: 05:52:52z	Push: 06:05:42z	Tgt: 06:20:30z	IFF: M124/4/121/20634-5/33534-5
+		Satan1	1592	SEAD	4 F-16CM-40 	Protect package from enemy air defenses
+	 	T/O: 05:11:00z	Push: 06:01:12z	Tgt: 06:16:00z	IFF: M124/4/121/20640-3/33540-3
+		Bison2	1593	ESCORT	4 F-104S 	Protect package elements from enemy aircraft
+	 	T/O: 05:46:00z	Push: 06:03:12z	Tgt: 06:18:00z	IFF: M124/4/121/20644-7/33544-7
+	
+Threat Analysis:
+
+	Air-to-Air Threats:
+	FRY MiG-21bisCAP aircraft are expected to be operating near target area.
+	Be advised: Intelligence reports the following squadron(s) are currently operating out of Podgorica Airbase:
+	 -- 897th Attack Heli Squadron(FRY Mi-8)  -- 100%strength
+	 -- 126th Fighter Squadron(FRY MiG-21bis)  -- 100%strength
+
+	Surface-To-Air Threats:
+	Known or suspected enemy air defenses along your flight path include:
+	 -- SA-3 (S-125)missile launchers 2 nm east of Mahala
+	 -- SA-6 (2K12)missile launchers 1 nm east of Podgorica
+
+Steerpoints:
+
+	#:	Desc:	Time:		Dist:		Head:		Cas:		Alt:	Action:	Form:	Comments:
+
+	1	Takeoff	05:52:52z		--		--		--		--	Climb immediate	Wedge	Takeoff
+	2	--	05:56:29z		22.8		7		275		22.0M	--	Wedge	--
+	3	Holding Pt	05:58:13z		13.3		58		300		22.0M	--	Wedge	Hold  (Departure: 06:04:13z)
+	4	Push	06:05:42z		10.2		58		300		22.0M	Descend immediate	Wedge	Rendezvous with package
+	5	Pre IP	06:13:15z		60.4		63		380		17.0M	Climb immediate	Box	--
+	6	IP	06:16:49z		32.9		60		435		18.0M	--	Box	--
+	7	Strike	06:20:30z		29.3		60		375		18.0M	--	Box	Attack target
+	8	Turn Pt	06:22:20z		14.7		197		375		18.0M	Climb delayed	ArrowHead	--
+	9	Split	06:27:26z		40.8		250		375		21.0M	--	ArrowHead	Depart from package
+	10	--	06:37:20z		79.2		234		360		21.0M	Descend delayed	Wedge	--
+	11	Land	06:41:06z		30.1		234		360		--	--	Wedge	Land
+	12	Land	--		--		--		--		--	--	Wedge	Land (Alternate)
+
+Comm Ladder:
+ 
+	Agency:	Callsign:	Uhf [Chnl]:	Vhf [Chnl]:	Notes:
+ 
+	Intra-Flight:	Hammer7	283.750 MHz [16]	143.800 MHz [16]	Flight Management Comms
+ 
+	Guard:	None	243.000 MHz 	121.500 MHz 	Distress / Emergency
+	Common:	None	339.750 MHz [14]	119.500 MHz [13]	Advisory / UNICOM
+	Base Ops:	None	--	--	Homeplate Operations
+ 
+	Check-In:	Sentry2	368.625 MHz [5]	--	AWACS: Global Check-In
+	Tactical:	Sentry2	295.450 MHz [6]	--	AWACS: Package Comms 
+	Tanker / Aar:	Copper4 (TCN: 060Y)  	226.950 MHz [13]	--	Boom Operator
+ 
+	Dep Atis:	Gioia ATIS	--	126.500 MHz 	Departure Airbase
+	Dep Ground:	Gioia Ground	369.475 MHz [2]	--	Departure Airbase
+	Dep Tower:	Gioia Tower	275.325 MHz [3]	122.450 MHz [3]	Departure Airbase
+	Dep Departure:	Gioia Departure	379.525 MHz [4]	--	Departure Airbase
+ 
+	Arr Atis:	Gioia ATIS	--	126.500 MHz 	Recovery Airbase
+	Arr Approach:	Gioia Approach	379.525 MHz [4]	--	Recovery Airbase
+	Arr Tower:	Gioia Tower	275.325 MHz [3]	122.450 MHz [3]	Recovery Airbase
+	Arr Ground:	Gioia Ground	369.475 MHz [2]	--	Recovery Airbase
+ 
+	Alt Atis:	Palese ATIS	--	124.050 MHz 	Alternate Airbase
+	Alt Approach:	Palese Approach	236.500 MHz [10]	--	Alternate Airbase
+	Alt Tower:	Palese Tower	263.300 MHz [11]	118.300 MHz [11]	Alternate Airbase
+	Alt Ground:	Palese Ground	248.200 MHz [12]	--	Alternate Airbase
+
+Iff
+
+	GENERAL:
+	Initial STAT Settings:	Modes Active: M124	Codes:	M1: 33	M2: 0634	M3: 0160
+	M4 Validity Time (Until):	Key A: Day2 00:00z	Key B: Day3 00:00z
+	IFF Policy:	M1: per team	M2: per aircraft	M3: per aircraft
+	Code Change Setting:	POS/TIM
+
+	TIME EVENTS:
+	Rot/day:	06:00z	07:00z	08:00z	09:00z	10:00z	11:00z	12:00z	13:00z	14:00z	15:00z	16:00z	17:00z
+
+	M1:	24	21	22	13	61	72	22	51	63	30	13	03	60
+	M3:	24	3534	7034	3510	5460	3634	2334	2460	5534	2560	6710	5034	4734
+	M4:	1	A	A	A	A	A	A	A	A	A	A	A	A
+
+	POS EVENTS:
+	Ingress: M4 / EOF4 	Egress: M124 / WOF9 
+
+Ordnance:
+
+	Callsign:	Flt Lead:	Wing Two:	Elem Lead:	Elem Two:
+
+	 	Zipper6	-- Zipper61 --	-- Zipper62 --	-- Zipper63 --	-- Zipper64 --
+	180x 27mm x2	180x 27mm x2	180x 27mm x2	180x 27mm x2
+	2x BOZ-107 IDS-I	2x BOZ-107 IDS-I	2x BOZ-107 IDS-I	2x BOZ-107 IDS-I
+	2x Tank IDS-I 1500li	2x Tank IDS-I 1500li	2x Tank IDS-I 1500li	2x Tank IDS-I 1500li
+	2x AIM-9M Sidewinder	2x AIM-9M Sidewinder	2x AIM-9M Sidewinder	2x AIM-9M Sidewinder
+	1x AN/AAQ-28(v)	1x AN/AAQ-28(v)	1x AN/AAQ-28(v)	1x AN/AAQ-28(v)
+	1x GBU-24A/B /AP	1x GBU-24A/B /AP	1x GBU-24A/B /AP	1x GBU-24A/B /AP
+	1x GBU-24/B /HE	1x GBU-24/B /HE	1x GBU-24/B /HE	1x GBU-24/B /HE
+
+	 	Hammer7	-- Hammer71 --	-- Hammer72 --
+	510x 20mm M61	510x 20mm M61
+	2x AIM-120B AMRAAM	2x AIM-120B AMRAAM
+	2x AIM-9X Sidewinder	2x AIM-9X Sidewinder
+	2x GBU-27/B /AP	2x GBU-27/B /AP
+	2x Tank 370gal	2x Tank 370gal
+	1x AN/ALQ-131(v)1	1x AN/ALQ-131(v)1
+	1x AN/AAQ-13 NAVPOD	1x AN/AAQ-13 NAVPOD
+	1x AN/AAQ-33 SNIPER	1x AN/AAQ-33 SNIPER
+
+	 	Satan1	-- Satan11 --	-- Satan12 --	-- Satan13 --	-- Satan14 --
+	510x 20mm M61	510x 20mm M61	510x 20mm M61	510x 20mm M61
+	2x AIM-120C AMRAAM	2x AIM-120C AMRAAM	2x AIM-120C AMRAAM	2x AIM-120C AMRAAM
+	2x AIM-9X Sidewinder	2x AIM-9X Sidewinder	2x AIM-9X Sidewinder	2x AIM-9X Sidewinder
+	2x AGM-88 HARM	2x AGM-88 HARM	2x AGM-88 HARM	2x AGM-88 HARM
+	2x Tank 370gal	2x Tank 370gal	2x Tank 370gal	2x Tank 370gal
+	1x Tank 300gal	1x Tank 300gal	1x Tank 300gal	1x Tank 300gal
+	1x AN/ASQ-213 HTS	1x AN/ASQ-213 HTS	1x AN/ASQ-213 HTS	1x AN/ASQ-213 HTS
+
+	 	Bison2	-- Bison21 --	-- Bison22 --	-- Bison23 --	-- Bison24 --
+	750x 20mm M61	750x 20mm M61	750x 20mm M61	750x 20mm M61
+	2x AIM-9M Sidewinder	2x AIM-9M Sidewinder	2x AIM-9M Sidewinder	2x AIM-9M Sidewinder
+	2x AIM-7E-2 Sparrow	2x AIM-7E-2 Sparrow	2x AIM-7E-2 Sparrow	2x AIM-7E-2 Sparrow
+	2x AIM-9P Sidewinder	2x AIM-9P Sidewinder	2x AIM-9P Sidewinder	2x AIM-9P Sidewinder
+
+Weather:
+
+	Conditions@ 	Take Off:	Target Area:	Landing:
+
+	Situation: 	Fair	Fair	Fair
+	Wind:	194deg@ 13kts.	194deg@ 13kts.	194deg@ 13kts.
+	Visibility:	60km	60km	60km
+	Temp:	9deg C.	9deg C.	9deg C.
+	Cloud Base:	5,000 ft MSL base	5,000 ft MSL base	5,000 ft MSL base
+	Con Layer:	28,000 ft MSL base	28,000 ft MSL base	28,000 ft MSL base
+
+Support:
+
+	Callsign:	Station Area: 
+
+	Sentry2 (AWACS):	1 E-3	Friendly AWACS aircraft will be operating 47 nm east of Split. Available for air detection and warning.
+
+	Dragnet1 (JSTAR): 	1 E-8C	Friendly JSTAR aircraft will be operating 62 nm southwest of Sarajevo. Available for ground movement queries.
+
+	Copper4 (Tanker): 	1 KC-135R	Friendly tankers will be operating 62 nm southwest of Sarajevo. Available for mid-air refueling. (TCN: 060Y)  
+
+		 Friendly ECM aircraft will be operating49 nm southwest of Sarajevo. Available for ECM Jamming Support.
+
+Rules of Engagement:
+
+	Visually ID unknown aircraft before engaging, unless authorized by AWACS.
+	Note: Friendly aircraft may be operating in the area.
+
+Emergency Procedures:
+
+	Distress call:
+	For aircrew in a hostile area, prior to ejection, transmit on the working frequency: “MAYDAY” (three times); call-sign; and position in relation to BULLSEYE.
+
+	Combat Search and Rescue:
+	SAR helos are available within 30 km of FLOT. In case of shoot-down, mark closest coordinates of the survivor’s position and report the incident to the CSAR assets. Establish radio communication with survivor and execute the On Scene Commander procedures
+
+	Alternate airfield:
+	Palese Airport, 5 nm west of Bari
+
+	Sanitise yourself and review your evasion plan of action.
+
+	Good Luck!
+
+
+END_OF_BRIEFING
+

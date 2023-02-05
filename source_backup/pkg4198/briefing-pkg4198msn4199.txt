@@ -1,0 +1,189 @@
+--------------------------------------------------------
+BRIEFING RECORD generated at 2/5/2023 21:52:26.
+Mission Overview:
+
+	Plasma5 (DEAD) 
+
+	Package #:	4198 (Suppression of Enemy Air Defenses) 
+	Pkg-Mission:	Strike enemy air defense assets
+	Target Area:	2 nm east of Ongjin City.
+	Time on Target: 	08:12:56z
+
+	 	Sunrise:	22:16:35z(07:16:35l) 
+	Sunset:	08:55:24z(17:55:24l)  
+
+Situation: 
+
+		
+Pilot Roster:
+
+	Callsign:	Flt Lead:	Wing Two:	Elem Lead:	Elem Two:
+
+	Plasma5	2Lt. Van	Unassigned	Unassigned	Unassigned
+	Satan7	Unassigned	Unassigned
+	Lancer3	Unassigned	Unassigned
+	Weasel2	Unassigned	Unassigned	Unassigned	Unassigned
+
+Package Elements: 	x  = Primary Flight
+
+	Callsign:	 Flt #:	Role:	Aircraft:	Task:
+
+	Plasma5	4199 (x ) 	DEAD	4 F-16C-52 ROKAF 	Destroy enemy air defense assets
+	 	T/O: 07:49:38z	Push: 08:03:15z	Tgt: 08:12:56z	IFF: M124/4/113/27404-7/37254-7
+		Satan7	4200	SEAD	2 F-16CM-50 	Protect package from enemy air defenses
+	 	T/O: 07:33:00z	Push: 07:49:15z	Tgt: 08:01:56z	IFF: M124/4/122/27410-1/31234-5
+		Lancer3	4201	DEAD	2 F-15K 	Destroy enemy air defense assets
+	 	T/O: 07:33:50z	Push: 08:02:44z	Tgt: 08:14:26z	IFF: M124/4/113/27414-5/37264-5
+		Weasel2	4202	SWEEP	4 F-16CM-40 	Clear sweep area of hostile aircraft
+	 	T/O: 07:26:24z	Push: 07:39:15z	Tgt: 07:48:56z	IFF: M124/4/122/27420-3/31244-7
+	
+Threat Analysis:
+
+	Air-to-Air Threats:
+	Enemy CAP aircraft are likely to be operating within operation area.
+
+	Surface-To-Air Threats:
+	Known or suspected enemy air defenses along your flight path include:
+	 -- SA-4 (2K11)missile launchers 7 nm south of Sagon-ni Town
+	 -- Osa II CLSanti-aircraft guns 4 nm southeast of Unho-ri Town
+	 -- ZU-23anti-aircraft guns 2 nm east of Ongjin City
+
+Steerpoints:
+
+	#:	Desc:	Time:		Dist:		Head:		Cas:		Alt:	Action:	Form:	Comments:
+
+	1	Takeoff	07:49:38z		--		--		--		--	Climb immediate	Wedge	Takeoff
+	2	--	07:53:37z		25.2		260		275		22.0M	--	Wedge	--
+	3	Holding Pt	07:55:49z		15.0		21		300		22.0M	--	Wedge	Hold  (Departure: 08:01:49z)
+	4	Push	08:03:15z		9.9		22		300		22.0M	Descend immediate	Wedge	Rendezvous with package
+	5	Pre IP	08:06:48z		28.3		320		370		19.0M	Climb immediate	Ladder	--
+	6	IP	08:07:51z		8.4		320		365		20.0M	--	Ladder	--
+	7	Grnd Attack	08:12:56z		40.6		319		365		20.0M	Climb delayed	Ladder	Attack ground targets
+	8	Split	08:17:37z		37.6		145		365		21.0M	--	ArrowHead	Depart from package
+	9	--	08:21:55z		34.4		136		360		21.0M	Descend delayed	Wedge	--
+	10	Land	08:25:42z		30.2		137		360		--	--	Wedge	Land
+	11	Land	--		--		--		--		--	--	Wedge	Land (Alternate)
+
+Comm Ladder:
+ 
+	Agency:	Callsign:	Uhf [Chnl]:	Vhf [Chnl]:	Notes:
+ 
+	Intra-Flight:	Plasma5	233.425 MHz [15]	141.675 MHz [15]	Flight Management Comms
+ 
+	Guard:	None	243.000 MHz 	121.500 MHz 	Distress / Emergency
+	Common:	None	339.750 MHz [14]	119.500 MHz [13]	Advisory / UNICOM
+	Base Ops:	None	318.100 MHz [1]	--	Homeplate Operations
+ 
+	Check-In:	Chalice4	374.425 MHz [5]	--	AWACS: Global Check-In
+	Tactical:	Chalice4	229.675 MHz [6]	--	AWACS: Package Comms 
+	Tanker / Aar:	Copper1 (TCN: 060Y)  	275.175 MHz [13]	--	Boom Operator
+ 
+	Dep Atis:	Seosan ATIS	--	130.300 MHz 	Departure Airbase
+	Dep Ground:	Seosan Ground	275.800 MHz [2]	--	Departure Airbase
+	Dep Tower:	Seosan Tower	353.100 MHz [3]	126.750 MHz [3]	Departure Airbase
+	Dep Departure:	Seosan Departure	253.950 MHz [4]	--	Departure Airbase
+ 
+	Arr Atis:	Seosan ATIS	--	130.300 MHz 	Recovery Airbase
+	Arr Approach:	Seosan Approach	253.950 MHz [4]	--	Recovery Airbase
+	Arr Tower:	Seosan Tower	353.100 MHz [3]	126.750 MHz [3]	Recovery Airbase
+	Arr Ground:	Seosan Ground	275.800 MHz [2]	--	Recovery Airbase
+ 
+	Alt Atis:	R110 ATIS	--	--	Alternate Airbase
+	Alt Approach:	R110 Approach	236.600 MHz [10]	--	Alternate Airbase
+	Alt Tower:	R110 Tower	236.600 MHz [10]	122.600 MHz [11]	Alternate Airbase
+	Alt Ground:	R110 Ground	236.600 MHz [10]	--	Alternate Airbase
+
+Iff
+
+	GENERAL:
+	Initial STAT Settings:	Modes Active: M124	Codes:	M1: 22	M2: 7404	M3: 1230
+	M4 Validity Time (Until):	Key A: Day2 00:00z	Key B: Day3 00:00z
+	IFF Policy:	M1: per team	M2: per aircraft	M3: per aircraft
+	Code Change Setting:	POS/TIM
+
+	TIME EVENTS:
+	Rot/day:	08:00z	09:00z	10:00z	11:00z	12:00z	13:00z	14:00z	15:00z	16:00z	17:00z	18:00z	19:00z
+
+	M1:	24	13	61	72	22	51	63	30	13	03	60	20	10
+	M3:	24	7254	6130	4104	0604	7604	3154	4104	0430	6504	5754	7654	3330
+	M4:	1	A	A	A	A	A	A	A	A	A	A	A	A
+
+	POS EVENTS:
+	Ingress: M4 / NOF4 	Egress: M124 / SOF8 
+
+Ordnance:
+
+	Callsign:	Flt Lead:	Wing Two:	Elem Lead:	Elem Two:
+
+	 	Plasma5	-- Plasma51 --	-- Plasma52 --	-- Plasma53 --	-- Plasma54 --
+	510x 20mm M61	510x 20mm M61	510x 20mm M61	510x 20mm M61
+	2x AIM-120C AMRAAM	2x AIM-120C AMRAAM	2x AIM-120C AMRAAM	2x AIM-120C AMRAAM
+	2x AIM-120B AMRAAM	2x AIM-120B AMRAAM	2x AIM-120B AMRAAM	2x AIM-120B AMRAAM
+	2x AGM-88 HARM	2x AGM-88 HARM	2x AGM-88 HARM	2x AGM-88 HARM
+	1x Tank 300gal	1x Tank 300gal	1x Tank 300gal	1x Tank 300gal
+
+	 	Satan7	-- Satan71 --	-- Satan72 --
+	510x 20mm M61	510x 20mm M61
+	2x AIM-120B AMRAAM	2x AIM-120B AMRAAM
+	2x AIM-9X Sidewinder	2x AIM-9X Sidewinder
+	2x AGM-88 HARM	2x AGM-88 HARM
+	2x Tank 370gal	2x Tank 370gal
+	1x AN/ALQ-184	1x AN/ALQ-184
+	1x AN/ASQ-213 HTS	1x AN/ASQ-213 HTS
+
+	 	Lancer3	-- Lancer31 --	-- Lancer32 --
+	500x 20mm M61	500x 20mm M61
+	2x AIM-120C AMRAAM	2x AIM-120C AMRAAM
+	2x AIM-9X Sidewinder	2x AIM-9X Sidewinder
+	4x GBU-31(v)1/B /HE	4x GBU-31(v)1/B /HE
+	1x Tank F-15E 600gal	1x Tank F-15E 600gal
+
+	 	Weasel2	-- Weasel21 --	-- Weasel22 --	-- Weasel23 --	-- Weasel24 --
+	510x 20mm M61	510x 20mm M61	510x 20mm M61	510x 20mm M61
+	4x AIM-120C AMRAAM	4x AIM-120C AMRAAM	4x AIM-120C AMRAAM	4x AIM-120C AMRAAM
+	2x AIM-9X Sidewinder	2x AIM-9X Sidewinder	2x AIM-9X Sidewinder	2x AIM-9X Sidewinder
+	2x Tank 600gal	2x Tank 600gal	2x Tank 600gal	2x Tank 600gal
+	1x AN/ALQ-184	1x AN/ALQ-184	1x AN/ALQ-184	1x AN/ALQ-184
+
+Weather:
+
+	Conditions@ 	Take Off:	Target Area:	Landing:
+
+	Situation: 	Fair	Sunny	Fair
+	Wind:	223deg@ 12kts.	239deg@ 5kts.	221deg@ 10kts.
+	Visibility:	59km	59km	59km
+	Temp:	12deg C.	7deg C.	12deg C.
+	Cloud Base:	10,000 ft MSL base	30,000 ft MSL base	10,000 ft MSL base
+	Con Layer:	26,000 ft MSL base	29,000 ft MSL base	26,000 ft MSL base
+
+Support:
+
+	Callsign:	Station Area: 
+
+	Chalice4 (AWACS):	1 E-3	Friendly AWACS aircraft will be operating 1 nm southeast of Jungwon City. Available for air detection and warning.
+
+	Copper1 (Tanker): 	1 KC-135R	Friendly tankers will be operating 18 nm south of Suwon City. Available for mid-air refueling. (TCN: 060Y)  
+
+Rules of Engagement:
+
+	Visually ID unknown aircraft before engaging, unless authorized by AWACS.
+	Note: Friendly aircraft may be operating in the area.
+
+Emergency Procedures:
+
+	Distress call:
+	For aircrew in a hostile area, prior to ejection, transmit on the working frequency: “MAYDAY” (three times); call-sign; and position in relation to BULLSEYE.
+
+	Combat Search and Rescue:
+	SAR helos are available within 30 km of FLOT. In case of shoot-down, mark closest coordinates of the survivor’s position and report the incident to the CSAR assets. Establish radio communication with survivor and execute the On Scene Commander procedures.
+
+	Alternate airfield:
+	R110 AirStrip, 33 nm southwest of Suwon City
+
+	Sanitise yourself and review your evasion plan of action.
+
+	Good Luck!
+
+
+END_OF_BRIEFING
+

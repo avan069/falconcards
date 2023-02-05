@@ -1,0 +1,177 @@
+--------------------------------------------------------
+BRIEFING RECORD generated at 2/5/2023 21:45:14.
+Mission Overview:
+
+	Jackal4 (DEAD) 
+
+	Package #:	3402 (Suppression of Enemy Air Defenses) 
+	Pkg-Mission:	Strike enemy air defense assets
+	Target Area:	2 nm north of Unch'on City.
+	Time on Target: 	05:50:00z
+
+	 	Sunrise:	22:16:35z(07:16:35l) 
+	Sunset:	08:55:24z(17:55:24l)  
+
+Situation: 
+
+		In an effort to obtain air superiority, air command has initiated an Offensive Counter Air operation targeted at the area around P'Yongyang City. As part of this effort, air command needs you to destroy or suppress the enemy's air defenses in an attempt to clear the way for additional strikes. Your target is the DPRK 3778th Air Defense Battalion, located 2 nm north of Unch'on City, which consists of several SA-2 (S-75)missile launchers.
+
+Pilot Roster:
+
+	Callsign:	Flt Lead:	Wing Two:	Elem Lead:	Elem Two:
+
+	Jackal4	2Lt. Van	Unassigned
+	Ramrod6	Unassigned	Unassigned
+	Prowler6	Unassigned
+
+Package Elements: 	x  = Primary Flight
+
+	Callsign:	 Flt #:	Role:	Aircraft:	Task:
+
+	Jackal4	3403 (x ) 	DEAD	2 F-16C-52 ROKAF 	Destroy enemy air defense assets
+	 	T/O: 05:22:19z	Push: 05:35:41z	Tgt: 05:50:00z	IFF: M124/4/133/20654-5/37130-1
+		Ramrod6	3405	DEAD	2 F-15K 	Destroy enemy air defense assets
+	 	T/O: 05:10:00z	Push: 05:36:11z	Tgt: 05:50:30z	IFF: M124/4/133/20660-1/37134-5
+		Prowler6	3406	EWS/ESJ	1 EA-6B 	Provide ECM Jamming Support over the Target Area
+	 	T/O: 04:18:00z	Push: 05:36:41z	Tgt: 05:51:00z	IFF: M124/4/133/20664/37140
+	
+Threat Analysis:
+
+	Air-to-Air Threats:
+	Enemy CAP aircraft are likely to be operating within operation area.
+
+	Surface-To-Air Threats:
+	Known or suspected enemy air defenses along your flight path include:
+	 -- SA-5 (S-200)missile launchers 3 nm northeast of Hwangju City
+	 -- SA-5 (S-200)missile launchers 6 nm northeast of Hwangju City
+	 -- Type 053H3 CLSmissile launchers 1 nm south of Nampo City
+
+Steerpoints:
+
+	#:	Desc:	Time:		Dist:		Head:		Cas:		Alt:	Action:	Form:	Comments:
+
+	1	Takeoff	05:22:19z		--		--		--		--	Climb immediate	Wedge	Takeoff
+	2	--	05:26:15z		24.8		270		275		22.0M	--	Wedge	--
+	3	Holding Pt	05:28:12z		15.0		30		335		22.0M	--	Wedge	Hold  (Departure: 05:34:12z)
+	4	Push	05:35:41z		10.2		32		300		22.0M	Descend immediate	Wedge	Rendezvous with package
+	5	Pre IP	05:43:46z		64.6		330		370		19.0M	Climb immediate	Ladder	--
+	6	IP	05:44:54z		9.2		332		365		20.0M	--	Ladder	--
+	7	Grnd Attack	05:50:00z		40.7		330		365		20.0M	--	Ladder	Attack ground targets
+	8	Turn Pt	05:55:31z		44.2		155		365		20.0M	Climb delayed	ArrowHead	--
+	9	Split	05:57:32z		15.1		165		340		21.0M	--	ArrowHead	Depart from package
+	10	--	06:03:53z		50.8		145		360		21.0M	Descend delayed	Wedge	--
+	11	Land	06:07:37z		30.0		146		360		--	--	Wedge	Land
+	12	Land	--		--		--		--		--	--	Wedge	Land (Alternate)
+	13	Refuel	--		--		--		--		20.0M	--	Wedge	Tanker station area
+
+Comm Ladder:
+ 
+	Agency:	Callsign:	Uhf [Chnl]:	Vhf [Chnl]:	Notes:
+ 
+	Intra-Flight:	Jackal4	236.425 MHz [15]	138.700 MHz [15]	Flight Management Comms
+ 
+	Guard:	None	243.000 MHz 	121.500 MHz 	Distress / Emergency
+	Common:	None	339.750 MHz [14]	119.500 MHz [13]	Advisory / UNICOM
+	Base Ops:	None	318.100 MHz [1]	--	Homeplate Operations
+ 
+	Check-In:	Chalice4	374.425 MHz [5]	--	AWACS: Global Check-In
+	Tactical:	Chalice4	268.025 MHz [6]	--	AWACS: Package Comms 
+	Tanker / Aar:	Copper4 (TCN: 060Y)  	226.950 MHz [13]	--	Boom Operator
+ 
+	Dep Atis:	Seosan ATIS	--	130.300 MHz 	Departure Airbase
+	Dep Ground:	Seosan Ground	275.800 MHz [2]	--	Departure Airbase
+	Dep Tower:	Seosan Tower	353.100 MHz [3]	126.750 MHz [3]	Departure Airbase
+	Dep Departure:	Seosan Departure	253.950 MHz [4]	--	Departure Airbase
+ 
+	Arr Atis:	Seosan ATIS	--	130.300 MHz 	Recovery Airbase
+	Arr Approach:	Seosan Approach	253.950 MHz [4]	--	Recovery Airbase
+	Arr Tower:	Seosan Tower	353.100 MHz [3]	126.750 MHz [3]	Recovery Airbase
+	Arr Ground:	Seosan Ground	275.800 MHz [2]	--	Recovery Airbase
+ 
+	Alt Atis:	R110 ATIS	--	--	Alternate Airbase
+	Alt Approach:	R110 Approach	236.600 MHz [10]	--	Alternate Airbase
+	Alt Tower:	R110 Tower	236.600 MHz [10]	122.600 MHz [11]	Alternate Airbase
+	Alt Ground:	R110 Ground	236.600 MHz [10]	--	Alternate Airbase
+
+Iff
+
+	GENERAL:
+	Initial STAT Settings:	Modes Active: M124	Codes:	M1: 33	M2: 0654	M3: 7130
+	M4 Validity Time (Until):	Key A: Day2 00:00z	Key B: Day3 00:00z
+	IFF Policy:	M1: per team	M2: per aircraft	M3: per aircraft
+	Code Change Setting:	POS/TIM
+
+	TIME EVENTS:
+	Rot/day:	06:00z	07:00z	08:00z	09:00z	10:00z	11:00z	12:00z	13:00z	14:00z	15:00z	16:00z	17:00z
+
+	M1:	24	21	22	13	61	72	22	51	63	30	13	03	60
+	M3:	24	6104	0030	1354	2004	0554	2554	3530	0704	6630	2654	2604	4654
+	M4:	1	A	A	A	A	A	A	A	A	A	A	A	A
+
+	POS EVENTS:
+	Ingress: M4 / NOF4 	Egress: M124 / SOF9 
+
+Ordnance:
+
+	Callsign:	Flt Lead:	Wing Two:	Elem Lead:	Elem Two:
+
+	 	Jackal4	-- Jackal41 --	-- Jackal42 --
+	510x 20mm M61	510x 20mm M61
+	4x AIM-120B AMRAAM	4x AIM-120B AMRAAM
+	2x AGM-88 HARM	2x AGM-88 HARM
+	2x Tank 370gal	2x Tank 370gal
+
+	 	Ramrod6	-- Ramrod61 --	-- Ramrod62 --
+	500x 20mm M61	500x 20mm M61
+	2x AIM-9X Sidewinder	2x AIM-9X Sidewinder
+	2x AIM-120C AMRAAM	2x AIM-120C AMRAAM
+	8x GBU-12B/B /HE	8x GBU-12B/B /HE
+	2x GBU-31(v)1/B /HE	2x GBU-31(v)1/B /HE
+	1x Tank F-15E 600gal	1x Tank F-15E 600gal
+	1x AN/AAQ-33 SNIPER	1x AN/AAQ-33 SNIPER
+
+	 	Prowler6	-- Prowler61 --
+	3x AN/ALQ-99
+
+Weather:
+
+	Conditions@ 	Take Off:	Target Area:	Landing:
+
+	Situation: 	Sunny	Poor	Fair
+	Wind:	252deg@ 6kts.	238deg@ 8kts.	218deg@ 11kts.
+	Visibility:	59km	59km	59km
+	Temp:	9deg C.	7deg C.	12deg C.
+	Cloud Base:	30,000 ft MSL base	10,000 ft MSL base	10,000 ft MSL base
+	Con Layer:	29,000 ft MSL base	24,000 ft MSL base	26,000 ft MSL base
+
+Support:
+
+	Callsign:	Station Area: 
+
+	Chalice4 (AWACS):	1 E-3	Friendly AWACS aircraft will be operating 1 nm southeast of Jungwon City. Available for air detection and warning.
+
+	Copper4 (Tanker): 	1 KC-135R	Friendly tankers will be operating 18 nm south of Suwon City. Available for mid-air refueling. (TCN: 060Y)  
+
+Rules of Engagement:
+
+	Visually ID unknown aircraft before engaging, unless authorized by AWACS.
+	Note: Friendly aircraft may be operating in the area.
+
+Emergency Procedures:
+
+	Distress call:
+	For aircrew in a hostile area, prior to ejection, transmit on the working frequency: “MAYDAY” (three times); call-sign; and position in relation to BULLSEYE.
+
+	Combat Search and Rescue:
+	SAR helos are available within 30 km of FLOT. In case of shoot-down, mark closest coordinates of the survivor’s position and report the incident to the CSAR assets. Establish radio communication with survivor and execute the On Scene Commander procedures.
+
+	Alternate airfield:
+	R110 AirStrip, 33 nm southwest of Suwon City
+
+	Sanitise yourself and review your evasion plan of action.
+
+	Good Luck!
+
+
+END_OF_BRIEFING
+
