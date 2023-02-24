@@ -4,4 +4,4 @@ Customizable kneeboard cards in Falcon BMS using Excel for Windows.
 
 Visit the [Wiki](https://github.com/avan069/falconcards/wiki) to learn more.
 
-![2023-01-21_154613](https://user-images.githubusercontent.com/14366399/221247926-197d48b8-91a2-4dba-befb-d1ee15d50dda.jpg)
+![2023-02-01_195251](https://user-images.githubusercontent.com/14366399/221248161-2c6982e7-1f14-49c2-99fb-a46b1e8442de.jpg)
